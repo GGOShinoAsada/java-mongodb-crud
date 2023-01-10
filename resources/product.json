@@ -1,0 +1,11 @@
+[
+{
+  "name" : "product 1",
+  "price" : 4500.7,
+  "count": 10000,
+  "current_count" : 8950,
+  "date": new Date()
+  "category" : "63bcb6f4c6df82e371c1be90",
+"comment" : "good product"  
+} 
+]
